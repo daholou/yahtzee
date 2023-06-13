@@ -1,0 +1,13 @@
+{
+  "APP": {
+    "TITLE": "yahtzee",
+    "PLACEHOLDER": "Add some content here...",
+    "HEADER": {
+      "LANGUAGES": {
+        "TITLE": "Language",
+        "FRENCH": "French",
+        "ENGLISH": "English (US)"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/yahtzee/static/css/main.96fe625d.css",
+    "main.js": "/yahtzee/static/js/main.e4406b79.js",
+    "static/js/787.70c39664.chunk.js": "/yahtzee/static/js/787.70c39664.chunk.js",
+    "static/media/react-logo.svg": "/yahtzee/static/media/react-logo.17d8b7d2de73427b0f10b79d91d178a3.svg",
+    "static/media/github-logo.svg": "/yahtzee/static/media/github-logo.2a429a6e0605fce9b971b5c730452e07.svg",
+    "index.html": "/yahtzee/index.html",
+    "static/media/getFetch.cjs": "/yahtzee/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.96fe625d.css.map": "/yahtzee/static/css/main.96fe625d.css.map",
+    "main.e4406b79.js.map": "/yahtzee/static/js/main.e4406b79.js.map",
+    "787.70c39664.chunk.js.map": "/yahtzee/static/js/787.70c39664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fe625d.css",
+    "static/js/main.e4406b79.js"
+  ]
+}
